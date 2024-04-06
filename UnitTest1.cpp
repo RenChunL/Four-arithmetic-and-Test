@@ -1,6 +1,6 @@
 ﻿#include "pch.h"
 #include "CppUnitTest.h"
-#include"C:\Users\任春林\source\repos\ruanjian2\源.cpp"
+#include"C:\Users\...\source\repos\ruanjian2\源.cpp"
 #include <iostream>
 #include <vector>
 #include <cassert>
